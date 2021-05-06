@@ -1,0 +1,7 @@
+org/apache/hadoop/fs/ceph/CephConfigKeys.class
+org/apache/hadoop/fs/ceph/CephInputStream.class
+org/apache/hadoop/fs/ceph/CephFileSystem.class
+org/apache/hadoop/fs/ceph/CephFsProto.class
+org/apache/hadoop/fs/ceph/CephOutputStream.class
+org/apache/hadoop/fs/ceph/CephFs.class
+org/apache/hadoop/fs/ceph/CephTalker.class

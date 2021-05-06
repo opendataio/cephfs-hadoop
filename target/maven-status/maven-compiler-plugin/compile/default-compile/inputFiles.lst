@@ -1,0 +1,7 @@
+/Users/mbl/projects/github/cephfs-hadoop/src/main/java/org/apache/hadoop/fs/ceph/CephFs.java
+/Users/mbl/projects/github/cephfs-hadoop/src/main/java/org/apache/hadoop/fs/ceph/CephFileSystem.java
+/Users/mbl/projects/github/cephfs-hadoop/src/main/java/org/apache/hadoop/fs/ceph/CephFsProto.java
+/Users/mbl/projects/github/cephfs-hadoop/src/main/java/org/apache/hadoop/fs/ceph/CephTalker.java
+/Users/mbl/projects/github/cephfs-hadoop/src/main/java/org/apache/hadoop/fs/ceph/CephConfigKeys.java
+/Users/mbl/projects/github/cephfs-hadoop/src/main/java/org/apache/hadoop/fs/ceph/CephInputStream.java
+/Users/mbl/projects/github/cephfs-hadoop/src/main/java/org/apache/hadoop/fs/ceph/CephOutputStream.java
