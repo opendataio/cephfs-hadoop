@@ -243,7 +243,7 @@ public class CephFileSystem extends FileSystem {
     path = makeAbsolute(path);
 
     if (isFile(path))
-      return null;
+      return new FileStatus[] { getFileStatus(path) };
 
     String[] dirlist = ceph.listdir(path);
     if (dirlist != null) {
